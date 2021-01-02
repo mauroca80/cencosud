@@ -14,7 +14,7 @@ npm install
 
 ```bash
 node server.js
-curl -o out.json http://localhost:8080 # Return {"info":"Prueba técnica cencosud"}%
+curl  http://localhost:8080 # Return {"info":"Prueba técnica cencosud"}%
 ```
 
 
