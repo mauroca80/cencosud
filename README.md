@@ -6,9 +6,10 @@ Prueba técnica para cencosud
 Instalar node versión utilizada 10.13.0.
 
 ```bash
-brew update
-brew install node
-npm install
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+nvm install node
+npm  install
+
 ```
 ## Usage
 
