@@ -1,0 +1,13 @@
+{
+  "name": "cencosud",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "express-generator": "^4.16.1",
+    "pg": "^8.5.1"
+  }
+}
