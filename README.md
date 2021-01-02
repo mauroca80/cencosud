@@ -3,7 +3,7 @@
 Prueba técnica para cencosud
 ## Installation
 
-Instalar node version utilizada 10.13.0.
+Instalar node versión utilizada 10.13.0.
 
 ```bash
 brew update
